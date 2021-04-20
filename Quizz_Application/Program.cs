@@ -91,7 +91,31 @@ namespace Quizz_Application
 
             }
             Console.WriteLine("");
-            Console.WriteLine("Your Score is " + score);
+            if (score <= 10 && score >= 7)
+            {
+                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("");
+                Console.WriteLine("Good Result");
+            }
+            else if (score >= 5 && score <= 6)
+            {
+                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("");
+                Console.WriteLine("Average Result");
+            }
+            else if (score >= 1 && score <= 4)
+            {
+                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("");
+                Console.WriteLine("You need to work hard");
+            }
+            else if (score == 0)
+            {
+                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("");
+                Console.WriteLine("Sorry you are failed");
+            }
+          
         }
 
 
@@ -156,7 +180,28 @@ namespace Quizz_Application
 
             }
             Console.WriteLine("");
-            Console.WriteLine("Your Score is " + score);
+            if (score <= 10 && score >= 7)
+            {
+                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("");
+                Console.WriteLine("Good Result");
+            }else if (score>=5&&score<=6)
+            {
+                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("");
+                Console.WriteLine("Average Result");
+            }else if (score >= 1 && score <= 4)
+            {
+                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("");
+                Console.WriteLine("You need to work hard");
+            }else if (score == 0)
+            {
+                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("");
+                Console.WriteLine("Sorry you are failed");
+            }
+           
         }
     }
 }
