@@ -91,31 +91,8 @@ namespace Quizz_Application
 
             }
             Console.WriteLine("");
-            if (score <= 10 && score >= 7)
-            {
-                Console.WriteLine("Your Score is " + score);
-                Console.WriteLine("");
-                Console.WriteLine("Good Result");
-            }
-            else if (score >= 5 && score <= 6)
-            {
-                Console.WriteLine("Your Score is " + score);
-                Console.WriteLine("");
-                Console.WriteLine("Average Result");
-            }
-            else if (score >= 1 && score <= 4)
-            {
-                Console.WriteLine("Your Score is " + score);
-                Console.WriteLine("");
-                Console.WriteLine("You need to work hard");
-            }
-            else if (score == 0)
-            {
-                Console.WriteLine("Your Score is " + score);
-                Console.WriteLine("");
-                Console.WriteLine("Sorry you are failed");
-            }
-          
+            Result(score);
+
         }
 
 
@@ -180,28 +157,41 @@ namespace Quizz_Application
 
             }
             Console.WriteLine("");
-            if (score <= 10 && score >= 7)
+            Result(score);
+
+
+
+        }
+
+
+        static void Result(int _score)
+        {
+
+            if (_score <= 10 && _score >= 7)
             {
-                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("Your Score is " + _score);
                 Console.WriteLine("");
                 Console.WriteLine("Good Result");
-            }else if (score>=5&&score<=6)
+            }
+            else if (_score >= 5 && _score <= 6)
             {
-                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("Your Score is " + _score);
                 Console.WriteLine("");
                 Console.WriteLine("Average Result");
-            }else if (score >= 1 && score <= 4)
+            }
+            else if (_score >= 1 && _score <= 4)
             {
-                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("Your Score is " + _score);
                 Console.WriteLine("");
                 Console.WriteLine("You need to work hard");
-            }else if (score == 0)
+            }
+            else if (_score == 0)
             {
-                Console.WriteLine("Your Score is " + score);
+                Console.WriteLine("Your Score is " + _score);
                 Console.WriteLine("");
                 Console.WriteLine("Sorry you are failed");
             }
-           
+
         }
-    }
+        }
 }
