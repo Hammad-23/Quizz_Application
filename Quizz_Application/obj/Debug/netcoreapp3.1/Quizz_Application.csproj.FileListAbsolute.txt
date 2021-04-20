@@ -1,0 +1,13 @@
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\bin\Debug\netcoreapp3.1\Quizz_Application.exe
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\bin\Debug\netcoreapp3.1\Quizz_Application.deps.json
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\bin\Debug\netcoreapp3.1\Quizz_Application.runtimeconfig.json
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\bin\Debug\netcoreapp3.1\Quizz_Application.runtimeconfig.dev.json
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\bin\Debug\netcoreapp3.1\Quizz_Application.dll
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\bin\Debug\netcoreapp3.1\Quizz_Application.pdb
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\obj\Debug\netcoreapp3.1\Quizz_Application.csprojAssemblyReference.cache
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\obj\Debug\netcoreapp3.1\Quizz_Application.AssemblyInfoInputs.cache
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\obj\Debug\netcoreapp3.1\Quizz_Application.AssemblyInfo.cs
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\obj\Debug\netcoreapp3.1\Quizz_Application.csproj.CoreCompileInputs.cache
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\obj\Debug\netcoreapp3.1\Quizz_Application.dll
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\obj\Debug\netcoreapp3.1\Quizz_Application.pdb
+D:\ALL Assignments PAF-KIET\PF Theory Final Project\Quizz_Application\Quizz_Application\obj\Debug\netcoreapp3.1\Quizz_Application.genruntimeconfig.cache
